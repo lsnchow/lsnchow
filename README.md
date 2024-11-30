@@ -3,8 +3,7 @@
 ## - 👋 Hi, I’m Lucas!
   I am a first-year Computer Engineering student at Queen's University in Kingston.
 - 👀 I’m interested in ...
-  Technology and Classical music! I love learning to program and develop new things, and I LOVE classical music (Specifically classical piano - I've recently got my ARCT in Piano Performance with First class honors!)
-- ✨ My skills include:
+  Technology and Classical music! I love learning to program and develop new things
   1. Programming using Python, Java, Javascript C/C++
   2. Web development using HTML, Tailwind/CSS and NextJS (React and Typescript).
   3. Flask and SQL (Postgres) with Prisma ORM.
