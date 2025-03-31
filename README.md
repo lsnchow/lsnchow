@@ -1,7 +1,7 @@
 
 
 ## - 👋 Hi, I’m Lucas!
-  I am a first-year Computer Engineering student at Queen's University in Kingston.
+  I am a first-year Computer Engineering student at Queen's University.
 - 👀 I’m interested in ...
   Technology and Classical music! I love learning to program and develop new things
   1. Programming using Python, Java, Javascript C/C++
