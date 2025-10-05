@@ -1,18 +1,12 @@
 
 
 ## - 👋 Hi, I’m Lucas!
-  I am a first-year Computer Engineering student at Queen's University.
+  Second-year Computer Engineering student at Queen's University.
 - 👀 I’m interested in ...
   Technology and Classical music! I love learning to program and develop new things
-  1. Programming using Python, Java, Javascript C/C++
-  2. Web development using HTML, Tailwind/CSS and NextJS (React and Typescript).
-  3. Flask and SQL (Postgres) with Prisma ORM.
+  1. Startups
 - 🌱 I’m currently learning ...
-  1. C/C++ for programming hardware projects and competitive coding.
-  2. MATLAB for Vector Derivatives 
-  3. STM32 Architecture
-- 💞️ I’m looking to collaborate on ...
-  Anything! I am always willing to meet new people and work on new and exciting projects (No matter how big or small they are!)
+  1. Startups... (and school)
 - 📫 How to reach me ...
   - Email: lucas.chow@queensu.ca
   - Discord: LSC17
